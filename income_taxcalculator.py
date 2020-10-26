@@ -1,6 +1,6 @@
 #income tax calculation
 
-#input5 from User
+#input from User
 income=int(input("Enter your income="))
 tax=0
 cess=0
